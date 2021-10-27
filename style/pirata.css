@@ -1,6 +1,0 @@
-/*HOJA DE ESTILO DE LA CANCIÓN DEL PIRATA DE ESPRONCEDA*/
-body{background-image: url("../images/piratafondo.jpg"); background-size: 25%;margin:0%; padding: 0%;}
-#container{background-color: rgba(255, 255, 255, 0.8);
-            width: 80%; height: 100vh ;margin:auto; text-align: center; border: 3px solid black; border: radius 20px;}
-            p{padding: 1em; font-family: 'Dancing Script', cursive;;}
-            h1, h2{padding: 1em; font-family: 'Pacifico', cursive;}
